@@ -9,6 +9,8 @@ Python (Little correlation)
 Power BI (visualization)
 
 
+
+
 Dataset Description
 
 Goals and Key Questions
@@ -75,12 +77,17 @@ Sleep_Hours_per_Night: Average hours of sleep per night.
 
 
 
+
+
 How to Run the Project
 Import the Students_Grading_Dataset into your SQL environment.
 
 Execute the provided SQL queries step-by-step.
 
 Modify or adjust queries to explore additional insights as needed.
+
+
+
 
 
 Kacper Konopka
